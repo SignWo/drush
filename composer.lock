@@ -707,16 +707,16 @@
         },
         {
             "name": "consolidation/site-process",
-            "version": "1.0.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/consolidation/site-process.git",
-                "reference": "e52dfbc4898fe8234e17ea32472776dbdfb0c8ef"
+                "reference": "410cede9409851c32b50ba05724363b5ff9e019c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/consolidation/site-process/zipball/e52dfbc4898fe8234e17ea32472776dbdfb0c8ef",
-                "reference": "e52dfbc4898fe8234e17ea32472776dbdfb0c8ef",
+                "url": "https://api.github.com/repos/consolidation/site-process/zipball/410cede9409851c32b50ba05724363b5ff9e019c",
+                "reference": "410cede9409851c32b50ba05724363b5ff9e019c",
                 "shasum": ""
             },
             "require": {
@@ -775,7 +775,7 @@
                 }
             ],
             "description": "A thin wrapper around the Symfony Process Component that allows applications to use the Site Alias library to specify the target for a remote call.",
-            "time": "2019-01-18T05:12:07+00:00"
+            "time": "2019-01-31T17:45:17+00:00"
         },
         {
             "name": "container-interop/container-interop",
