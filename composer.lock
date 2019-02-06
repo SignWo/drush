@@ -6259,12 +6259,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/webflo/drupal-core-strict.git",
-                "reference": "161c4e59e25caae08ff1f58b6fdbe4c4fdadf198"
+                "reference": "5f995882b1092df0934e01f2ffa856637603627e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/161c4e59e25caae08ff1f58b6fdbe4c4fdadf198",
-                "reference": "161c4e59e25caae08ff1f58b6fdbe4c4fdadf198",
+                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/5f995882b1092df0934e01f2ffa856637603627e",
+                "reference": "5f995882b1092df0934e01f2ffa856637603627e",
                 "shasum": ""
             },
             "require": {
@@ -6356,7 +6356,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Locked core dependencies",
-            "time": "2019-01-17T00:00:45+00:00"
+            "time": "2019-02-06T15:30:47+00:00"
         },
         {
             "name": "wikimedia/composer-merge-plugin",
