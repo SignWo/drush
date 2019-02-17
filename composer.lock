@@ -478,16 +478,16 @@
         },
         {
             "name": "consolidation/robo",
-            "version": "1.4.4",
+            "version": "1.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/consolidation/Robo.git",
-                "reference": "8bec6a6ea54a7d03d56552a4250c49dec3b3083d"
+                "reference": "d4805a1abbc730e9a6d64ede2eba56f91a2b4eb3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/consolidation/Robo/zipball/8bec6a6ea54a7d03d56552a4250c49dec3b3083d",
-                "reference": "8bec6a6ea54a7d03d56552a4250c49dec3b3083d",
+                "url": "https://api.github.com/repos/consolidation/Robo/zipball/d4805a1abbc730e9a6d64ede2eba56f91a2b4eb3",
+                "reference": "d4805a1abbc730e9a6d64ede2eba56f91a2b4eb3",
                 "shasum": ""
             },
             "require": {
@@ -582,7 +582,7 @@
                 }
             ],
             "description": "Modern task runner",
-            "time": "2019-02-08T20:59:23+00:00"
+            "time": "2019-02-17T05:32:27+00:00"
         },
         {
             "name": "consolidation/self-update",
@@ -4523,6 +4523,7 @@
                 "mock",
                 "xunit"
             ],
+            "abandoned": true,
             "time": "2018-08-09T05:50:03+00:00"
         },
         {
@@ -6256,6 +6257,11 @@
         {
             "name": "webflo/drupal-core-strict",
             "version": "8.6.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/webflo/drupal-core-strict.git",
+                "reference": "0e445007504878ac9080dba88e6aa906e3d42592"
+            },
             "require": {
                 "asm89/stack-cors": "1.2.0",
                 "composer/installers": "v1.5.0",
