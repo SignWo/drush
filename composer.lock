@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "chi-teck/drupal-code-generator",
-            "version": "1.28.1",
+            "version": "1.29.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Chi-teck/drupal-code-generator.git",
-                "reference": "e7ca5d7d2ecb5374988ff636e7546638e91c2201"
+                "reference": "79768f0c9a50337ecce81de1fdfa48d837b9b341"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Chi-teck/drupal-code-generator/zipball/e7ca5d7d2ecb5374988ff636e7546638e91c2201",
-                "reference": "e7ca5d7d2ecb5374988ff636e7546638e91c2201",
+                "url": "https://api.github.com/repos/Chi-teck/drupal-code-generator/zipball/79768f0c9a50337ecce81de1fdfa48d837b9b341",
+                "reference": "79768f0c9a50337ecce81de1fdfa48d837b9b341",
                 "shasum": ""
             },
             "require": {
@@ -49,7 +49,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal code generator",
-            "time": "2019-03-07T06:10:55+00:00"
+            "time": "2019-04-13T14:36:40+00:00"
         },
         {
             "name": "composer/semver",
