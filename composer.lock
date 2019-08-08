@@ -3349,12 +3349,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "5289b1a751afce3b29e4a3debb4e163839bf0de6"
+                "reference": "d310ad1e581b7e80344b6654e564e71c3bcb0bd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/5289b1a751afce3b29e4a3debb4e163839bf0de6",
-                "reference": "5289b1a751afce3b29e4a3debb4e163839bf0de6",
+                "url": "https://api.github.com/repos/drupal/core/zipball/d310ad1e581b7e80344b6654e564e71c3bcb0bd1",
+                "reference": "d310ad1e581b7e80344b6654e564e71c3bcb0bd1",
                 "shasum": ""
             },
             "require": {
@@ -3585,7 +3585,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2019-08-02T14:45:21+00:00"
+            "time": "2019-08-07T19:19:26+00:00"
         },
         {
             "name": "drupal/devel",
@@ -7489,12 +7489,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/webflo/drupal-core-require-dev.git",
-                "reference": "d1a24dd9f38a1a5edff214e282b7fd01fefa2356"
+                "reference": "283b526cd3e6e60cdc81edecd663b856f22c5d23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webflo/drupal-core-require-dev/zipball/d1a24dd9f38a1a5edff214e282b7fd01fefa2356",
-                "reference": "d1a24dd9f38a1a5edff214e282b7fd01fefa2356",
+                "url": "https://api.github.com/repos/webflo/drupal-core-require-dev/zipball/283b526cd3e6e60cdc81edecd663b856f22c5d23",
+                "reference": "283b526cd3e6e60cdc81edecd663b856f22c5d23",
                 "shasum": ""
             },
             "require": {
@@ -7519,7 +7519,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "require-dev dependencies from drupal/core",
-            "time": "2019-07-17T16:31:47+00:00"
+            "time": "2019-08-07T19:31:43+00:00"
         },
         {
             "name": "webflo/drupal-core-strict",
