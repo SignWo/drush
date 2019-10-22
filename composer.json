@@ -41,6 +41,7 @@
     "consolidation/robo": "^1.4.6",
     "consolidation/site-alias": "^3.0.0@stable",
     "consolidation/site-process": "^2.1",
+    "drupal/alinks": "1.1.0",
     "grasmash/yaml-expander": "^1.1.1",
     "league/container": "~2",
     "psr/log": "~1.0",
@@ -65,7 +66,6 @@
     "webflo/drupal-core-require-dev": "8.7.x-dev",
     "drupal/empty_theme": "1.0",
     "drupal/devel": "^2",
-    "drupal/alinks": "1.0.0",
     "vlucas/phpdotenv": "^2.4"
   },
   "autoload": {
