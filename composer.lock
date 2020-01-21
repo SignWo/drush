@@ -1854,16 +1854,16 @@
         },
         {
             "name": "symfony/polyfill-php72",
-            "version": "v1.12.0",
+            "version": "v1.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php72.git",
-                "reference": "04ce3335667451138df4307d6a9b61565560199e"
+                "reference": "66fea50f6cb37a35eea048d75a7d99a45b586038"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php72/zipball/04ce3335667451138df4307d6a9b61565560199e",
-                "reference": "04ce3335667451138df4307d6a9b61565560199e",
+                "url": "https://api.github.com/repos/symfony/polyfill-php72/zipball/66fea50f6cb37a35eea048d75a7d99a45b586038",
+                "reference": "66fea50f6cb37a35eea048d75a7d99a45b586038",
                 "shasum": ""
             },
             "require": {
@@ -1872,7 +1872,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.12-dev"
+                    "dev-master": "1.13-dev"
                 }
             },
             "autoload": {
@@ -1905,7 +1905,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2019-08-06T08:03:45+00:00"
+            "time": "2019-11-27T13:56:44+00:00"
         },
         {
             "name": "symfony/process",
@@ -1958,16 +1958,16 @@
         },
         {
             "name": "symfony/var-dumper",
-            "version": "v4.4.1",
+            "version": "v4.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-dumper.git",
-                "reference": "0a89a1dbbedd9fb2cfb2336556dec8305273c19a"
+                "reference": "7cfa470bc3b1887a7b2a47c0a702a84ad614fa92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/0a89a1dbbedd9fb2cfb2336556dec8305273c19a",
-                "reference": "0a89a1dbbedd9fb2cfb2336556dec8305273c19a",
+                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/7cfa470bc3b1887a7b2a47c0a702a84ad614fa92",
+                "reference": "7cfa470bc3b1887a7b2a47c0a702a84ad614fa92",
                 "shasum": ""
             },
             "require": {
@@ -2030,7 +2030,7 @@
                 "debug",
                 "dump"
             ],
-            "time": "2019-11-28T13:33:56+00:00"
+            "time": "2020-01-04T13:00:46+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -7384,6 +7384,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "require-dev dependencies from drupal/core",
+            "abandoned": "drupal/core-dev",
             "time": "2019-10-02T19:31:42+00:00"
         },
         {
@@ -7596,6 +7597,7 @@
                 "psr",
                 "psr-7"
             ],
+            "abandoned": "laminas/laminas-diactoros",
             "time": "2017-08-17T21:21:00+00:00"
         },
         {
@@ -7640,6 +7642,7 @@
                 "escaper",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-escaper",
             "time": "2016-06-30T19:48:38+00:00"
         },
         {
@@ -7701,6 +7704,7 @@
                 "feed",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-feed",
             "time": "2016-02-11T18:54:29+00:00"
         },
         {
@@ -7746,6 +7750,7 @@
                 "stdlib",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-stdlib",
             "time": "2016-04-12T21:19:36+00:00"
         }
     ],
