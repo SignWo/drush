@@ -1110,6 +1110,7 @@
                     "email": "jakub.onderka@gmail.com"
                 }
             ],
+            "abandoned": "php-parallel-lint/php-console-color",
             "time": "2018-09-29T17:23:10+00:00"
         },
         {
@@ -1156,6 +1157,7 @@
                 }
             ],
             "description": "Highlight PHP code in terminal",
+            "abandoned": "php-parallel-lint/php-console-highlighter",
             "time": "2018-09-29T18:48:56+00:00"
         },
         {
@@ -3050,16 +3052,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "8.8.1",
+            "version": "8.8.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "d339279f4c4b89477e0f4a8b775eb5dcb86b3087"
+                "reference": "049a282977f56cf58aa2fb70bb9be9ca6c87d250"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/d339279f4c4b89477e0f4a8b775eb5dcb86b3087",
-                "reference": "d339279f4c4b89477e0f4a8b775eb5dcb86b3087",
+                "url": "https://api.github.com/repos/drupal/core/zipball/049a282977f56cf58aa2fb70bb9be9ca6c87d250",
+                "reference": "049a282977f56cf58aa2fb70bb9be9ca6c87d250",
                 "shasum": ""
             },
             "require": {
@@ -3092,7 +3094,7 @@
                 "symfony/console": "~3.4.0",
                 "symfony/dependency-injection": "~3.4.26",
                 "symfony/event-dispatcher": "~3.4.0",
-                "symfony/http-foundation": "~3.4.27",
+                "symfony/http-foundation": "~3.4.35",
                 "symfony/http-kernel": "~3.4.14",
                 "symfony/polyfill-iconv": "^1.0",
                 "symfony/process": "~3.4.0",
@@ -3276,25 +3278,24 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2019-12-18T10:34:03+00:00"
+            "time": "2020-11-17T22:06:51+00:00"
         },
         {
             "name": "drupal/core-recommended",
-            "version": "8.8.1",
+            "version": "8.8.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "a2215237489ccb456219bd30b26649e6899b6f35"
+                "reference": "56137126dd3ee7ec332c532f5dd4cbe5c26950f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/a2215237489ccb456219bd30b26649e6899b6f35",
-                "reference": "a2215237489ccb456219bd30b26649e6899b6f35",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/56137126dd3ee7ec332c532f5dd4cbe5c26950f8",
+                "reference": "56137126dd3ee7ec332c532f5dd4cbe5c26950f8",
                 "shasum": ""
             },
             "require": {
                 "asm89/stack-cors": "1.2.0",
-                "composer/installers": "v1.7.0",
                 "composer/semver": "1.5.0",
                 "doctrine/annotations": "v1.4.0",
                 "doctrine/cache": "v1.6.2",
@@ -3302,7 +3303,7 @@
                 "doctrine/common": "v2.7.3",
                 "doctrine/inflector": "v1.2.0",
                 "doctrine/lexer": "1.0.2",
-                "drupal/core": "8.8.1",
+                "drupal/core": "8.8.11",
                 "easyrdf/easyrdf": "0.9.1",
                 "egulias/email-validator": "2.1.11",
                 "guzzlehttp/guzzle": "6.3.3",
@@ -3326,7 +3327,7 @@
                 "symfony/dependency-injection": "v3.4.35",
                 "symfony/event-dispatcher": "v3.4.35",
                 "symfony/http-foundation": "v3.4.35",
-                "symfony/http-kernel": "v3.4.35",
+                "symfony/http-kernel": "v3.4.44",
                 "symfony/polyfill-ctype": "v1.12.0",
                 "symfony/polyfill-iconv": "v1.12.0",
                 "symfony/polyfill-mbstring": "v1.12.0",
@@ -3356,19 +3357,19 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Locked core dependencies; require this project INSTEAD OF drupal/core.",
-            "time": "2019-12-18T10:34:03+00:00"
+            "time": "2020-11-17T22:06:51+00:00"
         },
         {
             "name": "easyrdf/easyrdf",
             "version": "0.9.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/njh/easyrdf.git",
+                "url": "https://github.com/easyrdf/easyrdf.git",
                 "reference": "acd09dfe0555fbcfa254291e433c45fdd4652566"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/njh/easyrdf/zipball/acd09dfe0555fbcfa254291e433c45fdd4652566",
+                "url": "https://api.github.com/repos/easyrdf/easyrdf/zipball/acd09dfe0555fbcfa254291e433c45fdd4652566",
                 "reference": "acd09dfe0555fbcfa254291e433c45fdd4652566",
                 "shasum": ""
             },
@@ -4689,6 +4690,7 @@
             "keywords": [
                 "tokenizer"
             ],
+            "abandoned": true,
             "time": "2017-11-27T05:48:46+00:00"
         },
         {
@@ -5826,16 +5828,16 @@
         },
         {
             "name": "symfony/http-kernel",
-            "version": "v3.4.35",
+            "version": "v3.4.44",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-kernel.git",
-                "reference": "e1764b3de00ec5636dd03d02fd44bcb1147d70d9"
+                "reference": "27dcaa8c6b18c75df9f37badeb4d3564ffaa1326"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/e1764b3de00ec5636dd03d02fd44bcb1147d70d9",
-                "reference": "e1764b3de00ec5636dd03d02fd44bcb1147d70d9",
+                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/27dcaa8c6b18c75df9f37badeb4d3564ffaa1326",
+                "reference": "27dcaa8c6b18c75df9f37badeb4d3564ffaa1326",
                 "shasum": ""
             },
             "require": {
@@ -5912,7 +5914,21 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2019-11-13T08:44:50+00:00"
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2020-08-31T05:53:42+00:00"
         },
         {
             "name": "symfony/polyfill-iconv",
@@ -6935,5 +6951,6 @@
     "platform-dev": [],
     "platform-overrides": {
         "php": "7.1.3"
-    }
+    },
+    "plugin-api-version": "1.1.0"
 }
